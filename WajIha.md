@@ -1,5 +1,5 @@
 # :wave: GIT AND GITHUB
-## What I have learnt in this course of Computing For Bioinformatics.
+## What I have learnt in this course of Computing For Bioinformatics. 
 * I have learnt using github and doing different tasks in it.like
 
 * Making new repositories in the gihub😄
